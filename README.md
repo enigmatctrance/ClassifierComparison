@@ -1,0 +1,1 @@
+Different classifier's accuracy is compared on the mnist handwritten dataset
